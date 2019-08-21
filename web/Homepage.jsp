@@ -102,6 +102,8 @@ background: url(right.gif) no-repeat 97% 50%;
 <input type="reset"</td>
 </tr>
 <tr>
+    <td colspan="2"><a href="reg.jsp">Register Here</a></td>
+                    </tr>
 </form>
 
                       
