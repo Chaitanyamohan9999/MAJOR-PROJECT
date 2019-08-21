@@ -125,7 +125,7 @@ window.location="./Year.jsp?"+e;
                             %><option value="<%=br_b[i]%>"><%=br_b[i]%></option><%
 				
 		}}
-		else if(domain.equals("M.Tech"))
+		else if(domain.equals("M-TECH"))
 		{
 			for(int i=0;i<br_m.length;i++){
 				 %><option value="<%=br_m[i]%>"><%=br_m[i]%></option><%
